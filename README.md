@@ -1,1 +1,2 @@
-# ICYOA-Template
+A Magic Journey ICYOA webpage.
+<!-- BUFFER -->
